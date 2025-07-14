@@ -3,13 +3,13 @@
 	"id": "tutorial-mod",
 	"version": "${version}",
 	"name": "Tutorial Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a tutorial based on Kaupenjoe on YouTube for Minecraft Fabric 1.21.1 mod developement",
 	"authors": [
-		"Me!"
+		"Orbyt!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/in-orbyt/Fabric-Tutorial-1.21.1"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tutorial-mod/icon.png",
